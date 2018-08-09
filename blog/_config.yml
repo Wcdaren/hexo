@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Wcdaren_忘尘
 subtitle:
 description:
 keywords:
-author: John Doe
-language:
+author: 忘尘
+language: 
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
-root: /
+url: http://yoursite.com/blog
+/blog/: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
